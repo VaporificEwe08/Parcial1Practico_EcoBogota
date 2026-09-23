@@ -19,7 +19,7 @@ Grupo 3
 
 ## Estructura del proyecto
 
-```text
+Parcial Practico
 .
 ├── docs/
 ├── include/
