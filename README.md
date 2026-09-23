@@ -1,1 +1,27 @@
-# Parcial1Practico_EcoBogota
+# Sistema de Información Electoral - Elecciones 2026
+
+Proyecto correspondiente al parcial de Fundamentos de Ingeniería de Software.
+
+## Objetivo
+
+Diseñar e implementar un sistema orientado a objetos que permita gestionar
+información relacionada con el proceso electoral colombiano de 2026,
+incluyendo territorios, puestos de votación, mesas, candidatos, jurados,
+actas, resultados, incidentes y reclamaciones.
+
+## Equipo
+
+Grupo 3
+
+- Integrante 1
+- Integrante 2
+- Integrante 3
+
+## Estructura del proyecto
+
+```text
+.
+├── docs/
+├── include/
+├── src/
+└── tests/
