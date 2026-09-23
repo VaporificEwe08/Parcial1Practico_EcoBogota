@@ -13,9 +13,9 @@ actas, resultados, incidentes y reclamaciones.
 
 Grupo 3
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Carlos Ney Bernal
+- Pablo Alfonso Jimenez Becerra 
+- Lilian Andrea Chaparro Rodriguez
 
 ## Estructura del proyecto
 
