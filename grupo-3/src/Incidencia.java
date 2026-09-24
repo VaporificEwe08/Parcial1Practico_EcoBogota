@@ -1,10 +1,5 @@
 package electoral;
 
-/**
- * Situacion presentada durante la jornada electoral, como problemas logisticos,
- * incidentes en los puestos o desacuerdos frente a la informacion de las actas.
- * Corresponde a la historia de usuario HU-10.
- */
 public class Incidencia {
 
     private String codigo;

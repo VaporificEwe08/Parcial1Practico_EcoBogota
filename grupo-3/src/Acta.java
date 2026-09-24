@@ -2,12 +2,6 @@ package electoral;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * Acta elaborada por los jurados al cierre de la jornada, donde se consignan
- * los resultados obtenidos por los candidatos en una mesa.
- * Corresponde a las historias de usuario HU-08, HU-09 y HU-12.
- */
 public class Acta {
 
     private String numero;

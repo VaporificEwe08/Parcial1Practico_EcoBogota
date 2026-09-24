@@ -1,10 +1,5 @@
 package electoral;
 
-/**
- * Solicitud de revision de resultados presentada por un partido politico o un
- * testigo electoral sobre un acta.
- * Corresponde a la historia de usuario HU-11.
- */
 public class Reclamacion {
 
     private String codigo;

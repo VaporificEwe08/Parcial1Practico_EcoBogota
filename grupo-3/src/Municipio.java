@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Municipio perteneciente a un departamento dentro de la distribucion territorial.
- * Corresponde a la historia de usuario HU-02.
- */
 public class Municipio {
 
     private String codigo;
