@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Mesa organizada dentro de un puesto de votacion, con su censo aproximado.
- * Corresponde a la historia de usuario HU-04.
- */
 public class MesaVotacion {
 
     private int numero;

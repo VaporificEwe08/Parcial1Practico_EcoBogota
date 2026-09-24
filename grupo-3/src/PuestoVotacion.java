@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Lugar habilitado dentro de un municipio para que los ciudadanos voten.
- * Corresponde a la historia de usuario HU-03.
- */
 public class PuestoVotacion {
 
     private String codigo;

@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Ciudadano asignado como jurado de una mesa de votacion, con su funcion en la jornada.
- * Corresponde a la historia de usuario HU-07.
- */
 public class JuradoVotacion {
 
     private String documento;

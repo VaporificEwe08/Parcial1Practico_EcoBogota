@@ -1,9 +1,4 @@
 package electoral;
-
-/**
- * Partido politico que participa en el proceso electoral presentando candidatos.
- * Corresponde a la historia de usuario HU-05.
- */
 public class PartidoPolitico {
 
     private String codigo;
