@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Proceso electoral que la autoridad electoral registra antes de la jornada.
- * Corresponde a la historia de usuario HU-01.
- */
 public class ProcesoElectoral {
 
     private String codigo;

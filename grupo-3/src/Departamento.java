@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Departamento donde se desarrolla la votacion de un proceso electoral.
- * Corresponde a la historia de usuario HU-02.
- */
 public class Departamento {
 
     private String codigo;

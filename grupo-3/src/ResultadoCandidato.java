@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Votos obtenidos por un candidato dentro de un acta.
- * Corresponde a la historia de usuario HU-09.
- */
 public class ResultadoCandidato {
 
     private Candidato candidato;

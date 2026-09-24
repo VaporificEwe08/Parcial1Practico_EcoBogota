@@ -28,9 +28,9 @@ El proyecto busca aplicar conceptos de ingeniería de software como:
 
 **Grupo 3**
 
-- Carlos Ney Bernal
-- Pablo Alfonso Jimenez Becerra
-- Lilian Andrea Chaparro Rodriguez
+- Carlos Ney Bernal.
+- Pablo Alfonso Jimenez Becerra.
+- Lilian Andrea Chaparro Rodriguez.
 
 ---
 

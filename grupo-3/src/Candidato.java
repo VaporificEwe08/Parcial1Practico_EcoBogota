@@ -1,9 +1,5 @@
 package electoral;
 
-/**
- * Candidato presentado por un partido politico dentro de la contienda.
- * Corresponde a la historia de usuario HU-06.
- */
 public class Candidato {
 
     private String documento;
